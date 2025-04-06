@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>오늘의 여행지 추</title>
+    <title>오늘의 여행지 추천</title>
     <style>
         body {
             text-align: center;
